@@ -1,6 +1,0 @@
-ollama
-vosk
-sounddevice
-soundfile
-pyttsx3
-numpy
